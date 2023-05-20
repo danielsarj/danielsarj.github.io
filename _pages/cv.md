@@ -17,6 +17,8 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF is not displayed properly, <a href="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" target="_blank">please click here.</a> <embed src="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" width="1000px" height="800px" />
+Last update: 2023-May-20
 
-<embed src="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" type="application/pdf" />
+If the embedded PDF is not displayed properly, <a href="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf">please click here.</a>
+
+<object data="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" width="400" height="400" type='application/pdf'></object>
