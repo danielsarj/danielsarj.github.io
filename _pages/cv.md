@@ -11,7 +11,6 @@ redirect_from:
 
 Last update: 2023-May-20
 
-======
-
-<object data="http://github.com/DanielAraujo_CV_latest.pdf" type="application/pdf" width="100%"> 
-</object>
+<img src="http://github.com/DanielAraujo_CV_latest.pdf" alt="some text"  width="4200" height="4200">
+ 
+![Alt](http://github.com/DanielAraujo_CV_latest.pdf)
