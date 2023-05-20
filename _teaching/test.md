@@ -1,10 +1,10 @@
 ---
 title: "TBA"
 collection: teaching
-type: 
+type: "TBA"
 permalink: /teaching/test
-venue: 
-date: 
-location: 
+venue: "TBA"
+date: 2000-01-01
+location: "TBA"
 ---
 TBA
