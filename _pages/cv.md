@@ -6,15 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-<style type="text/css">
-#pdfContainer  textarea {
-    padding-top : 20px;
-    margin-bottom : 10px;
-    width : 600px;
-}
-</style>
-
 {% include base_path %}
 
 Last update: 2023-May-20
