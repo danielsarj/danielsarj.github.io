@@ -11,12 +11,24 @@ redirect_from:
 
 Last update: 2023-May-20
 
-<img src="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" alt="some text"  width="4200" height="4200">
- 
-\begin{center} <br>
-\includegraphics[width=8in]{http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf} <br>
-\end{center}
- 
-![Alt](http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf)
+![Alt](http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf){width=100% height=400}
 
-<object data="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" type="application/pdf" width="100%">  </object>
+aaa
+
+<object data="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" type="application/pdf">
+    <embed src="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" type="application/pdf" />
+</object>
+
+bbbb
+
+<a href="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" class="image fit"><i class="fas fa-file-pdf"></i></a>
+
+ccc
+
+<object data="https://drive.google.com/file/d/1s2lavgvmFVFBDHVjDw8ii6NNZlmIJE7C/view?usp=sharing" type="application/pdf">
+    <embed src="https://drive.google.com/file/d/1s2lavgvmFVFBDHVjDw8ii6NNZlmIJE7C/view?usp=sharing" type="application/pdf" />
+</object>
+
+dddd
+
+<a href="https://drive.google.com/file/d/1s2lavgvmFVFBDHVjDw8ii6NNZlmIJE7C/view?usp=sharing" class="image fit"><i class="fas fa-file-pdf"></i></a>
