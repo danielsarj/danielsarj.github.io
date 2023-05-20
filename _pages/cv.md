@@ -18,10 +18,8 @@ redirect_from:
 {% include base_path %}
 
 Last update: 2023-May-20
-<div id="pdfContainer">
-      <div class="result">
-        <embed src="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" width="600px" height="500px" />
+<embed src="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" width="600px" height="500px" />
 a
-        <embed src="https://drive.google.com/file/d/1s2lavgvmFVFBDHVjDw8ii6NNZlmIJE7C/view?usp=sharing" width="600px" height="500px" />
-    </div>
-</div>
+<embed src="https://drive.google.com/file/d/1s2lavgvmFVFBDHVjDw8ii6NNZlmIJE7C/view?usp=sharing" width="600px" height="500px" />
+
+If the embedded PDF is not displayed properly, <a href="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" target="_blank">please click here.</a> <embed src="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf" width="1000px" height="800px" />
