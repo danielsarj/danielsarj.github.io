@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Last update: 2023-May-20
+Last update: July 17th, 2023
 
 If the embedded PDF is not displayed properly, <a href="http://danielsarj.github.io/files/DanielAraujo_CV_latest.pdf">please click here.</a>
 
